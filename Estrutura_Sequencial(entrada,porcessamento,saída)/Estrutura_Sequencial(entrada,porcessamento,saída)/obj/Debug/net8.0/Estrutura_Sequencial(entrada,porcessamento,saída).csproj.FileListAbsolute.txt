@@ -1,0 +1,14 @@
+C:\Users\joaov\source\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Estrutura_Sequencial(entrada,porcessamento,saída)\obj\Debug\net8.0\Estrutura_Sequencial(entrada,porcessamento,saída).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\source\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Estrutura_Sequencial(entrada,porcessamento,saída)\obj\Debug\net8.0\Estrutura_Sequencial(entrada,porcessamento,saída).AssemblyInfoInputs.cache
+C:\Users\joaov\source\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Estrutura_Sequencial(entrada,porcessamento,saída)\obj\Debug\net8.0\Estrutura_Sequencial(entrada,porcessamento,saída).AssemblyInfo.cs
+C:\Users\joaov\source\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Estrutura_Sequencial(entrada,porcessamento,saída)\obj\Debug\net8.0\Estrutura_Sequencial(entrada,porcessamento,saída).csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Estrutura_Sequencial(entrada,porcessamento,saída)\bin\Debug\net8.0\Estrutura_Sequencial(entrada,porcessamento,saída).exe
+C:\Users\joaov\source\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Estrutura_Sequencial(entrada,porcessamento,saída)\bin\Debug\net8.0\Estrutura_Sequencial(entrada,porcessamento,saída).deps.json
+C:\Users\joaov\source\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Estrutura_Sequencial(entrada,porcessamento,saída)\bin\Debug\net8.0\Estrutura_Sequencial(entrada,porcessamento,saída).runtimeconfig.json
+C:\Users\joaov\source\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Estrutura_Sequencial(entrada,porcessamento,saída)\bin\Debug\net8.0\Estrutura_Sequencial(entrada,porcessamento,saída).dll
+C:\Users\joaov\source\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Estrutura_Sequencial(entrada,porcessamento,saída)\bin\Debug\net8.0\Estrutura_Sequencial(entrada,porcessamento,saída).pdb
+C:\Users\joaov\source\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Estrutura_Sequencial(entrada,porcessamento,saída)\obj\Debug\net8.0\Estrutura_Sequencial(entrada,porcessamento,saída).dll
+C:\Users\joaov\source\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Estrutura_Sequencial(entrada,porcessamento,saída)\obj\Debug\net8.0\refint\Estrutura_Sequencial(entrada,porcessamento,saída).dll
+C:\Users\joaov\source\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Estrutura_Sequencial(entrada,porcessamento,saída)\obj\Debug\net8.0\Estrutura_Sequencial(entrada,porcessamento,saída).pdb
+C:\Users\joaov\source\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Estrutura_Sequencial(entrada,porcessamento,saída)\obj\Debug\net8.0\Estrutura_Sequencial(entrada,porcessamento,saída).genruntimeconfig.cache
+C:\Users\joaov\source\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Estrutura_Sequencial(entrada,porcessamento,saída)\obj\Debug\net8.0\ref\Estrutura_Sequencial(entrada,porcessamento,saída).dll

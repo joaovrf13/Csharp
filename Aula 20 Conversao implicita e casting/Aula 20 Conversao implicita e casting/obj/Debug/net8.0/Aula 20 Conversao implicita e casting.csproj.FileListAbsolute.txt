@@ -1,0 +1,14 @@
+C:\Users\joaov\source\repos\Aula 20 Conversao implicita e casting\Aula 20 Conversao implicita e casting\bin\Debug\net8.0\Aula 20 Conversao implicita e casting.exe
+C:\Users\joaov\source\repos\Aula 20 Conversao implicita e casting\Aula 20 Conversao implicita e casting\bin\Debug\net8.0\Aula 20 Conversao implicita e casting.deps.json
+C:\Users\joaov\source\repos\Aula 20 Conversao implicita e casting\Aula 20 Conversao implicita e casting\bin\Debug\net8.0\Aula 20 Conversao implicita e casting.runtimeconfig.json
+C:\Users\joaov\source\repos\Aula 20 Conversao implicita e casting\Aula 20 Conversao implicita e casting\bin\Debug\net8.0\Aula 20 Conversao implicita e casting.dll
+C:\Users\joaov\source\repos\Aula 20 Conversao implicita e casting\Aula 20 Conversao implicita e casting\bin\Debug\net8.0\Aula 20 Conversao implicita e casting.pdb
+C:\Users\joaov\source\repos\Aula 20 Conversao implicita e casting\Aula 20 Conversao implicita e casting\obj\Debug\net8.0\Aula 20 Conversao implicita e casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\source\repos\Aula 20 Conversao implicita e casting\Aula 20 Conversao implicita e casting\obj\Debug\net8.0\Aula 20 Conversao implicita e casting.AssemblyInfoInputs.cache
+C:\Users\joaov\source\repos\Aula 20 Conversao implicita e casting\Aula 20 Conversao implicita e casting\obj\Debug\net8.0\Aula 20 Conversao implicita e casting.AssemblyInfo.cs
+C:\Users\joaov\source\repos\Aula 20 Conversao implicita e casting\Aula 20 Conversao implicita e casting\obj\Debug\net8.0\Aula 20 Conversao implicita e casting.csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\repos\Aula 20 Conversao implicita e casting\Aula 20 Conversao implicita e casting\obj\Debug\net8.0\Aula 20 Conversao implicita e casting.dll
+C:\Users\joaov\source\repos\Aula 20 Conversao implicita e casting\Aula 20 Conversao implicita e casting\obj\Debug\net8.0\refint\Aula 20 Conversao implicita e casting.dll
+C:\Users\joaov\source\repos\Aula 20 Conversao implicita e casting\Aula 20 Conversao implicita e casting\obj\Debug\net8.0\Aula 20 Conversao implicita e casting.pdb
+C:\Users\joaov\source\repos\Aula 20 Conversao implicita e casting\Aula 20 Conversao implicita e casting\obj\Debug\net8.0\Aula 20 Conversao implicita e casting.genruntimeconfig.cache
+C:\Users\joaov\source\repos\Aula 20 Conversao implicita e casting\Aula 20 Conversao implicita e casting\obj\Debug\net8.0\ref\Aula 20 Conversao implicita e casting.dll

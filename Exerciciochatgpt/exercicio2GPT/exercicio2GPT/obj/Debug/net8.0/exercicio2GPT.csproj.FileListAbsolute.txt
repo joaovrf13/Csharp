@@ -1,0 +1,14 @@
+C:\Users\joaov\source\repos\Exercicio01chatgpt\exercicio2GPT\exercicio2GPT\bin\Debug\net8.0\exercicio2GPT.exe
+C:\Users\joaov\source\repos\Exercicio01chatgpt\exercicio2GPT\exercicio2GPT\bin\Debug\net8.0\exercicio2GPT.deps.json
+C:\Users\joaov\source\repos\Exercicio01chatgpt\exercicio2GPT\exercicio2GPT\bin\Debug\net8.0\exercicio2GPT.runtimeconfig.json
+C:\Users\joaov\source\repos\Exercicio01chatgpt\exercicio2GPT\exercicio2GPT\bin\Debug\net8.0\exercicio2GPT.dll
+C:\Users\joaov\source\repos\Exercicio01chatgpt\exercicio2GPT\exercicio2GPT\bin\Debug\net8.0\exercicio2GPT.pdb
+C:\Users\joaov\source\repos\Exercicio01chatgpt\exercicio2GPT\exercicio2GPT\obj\Debug\net8.0\exercicio2GPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\source\repos\Exercicio01chatgpt\exercicio2GPT\exercicio2GPT\obj\Debug\net8.0\exercicio2GPT.AssemblyInfoInputs.cache
+C:\Users\joaov\source\repos\Exercicio01chatgpt\exercicio2GPT\exercicio2GPT\obj\Debug\net8.0\exercicio2GPT.AssemblyInfo.cs
+C:\Users\joaov\source\repos\Exercicio01chatgpt\exercicio2GPT\exercicio2GPT\obj\Debug\net8.0\exercicio2GPT.csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\repos\Exercicio01chatgpt\exercicio2GPT\exercicio2GPT\obj\Debug\net8.0\exercicio2GPT.dll
+C:\Users\joaov\source\repos\Exercicio01chatgpt\exercicio2GPT\exercicio2GPT\obj\Debug\net8.0\refint\exercicio2GPT.dll
+C:\Users\joaov\source\repos\Exercicio01chatgpt\exercicio2GPT\exercicio2GPT\obj\Debug\net8.0\exercicio2GPT.pdb
+C:\Users\joaov\source\repos\Exercicio01chatgpt\exercicio2GPT\exercicio2GPT\obj\Debug\net8.0\exercicio2GPT.genruntimeconfig.cache
+C:\Users\joaov\source\repos\Exercicio01chatgpt\exercicio2GPT\exercicio2GPT\obj\Debug\net8.0\ref\exercicio2GPT.dll

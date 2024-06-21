@@ -1,0 +1,15 @@
+C:\Users\joaov\source\Exercicios\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Lista02Exer01\Lista02Exer01\bin\Debug\net8.0\Lista02Exer01.exe
+C:\Users\joaov\source\Exercicios\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Lista02Exer01\Lista02Exer01\bin\Debug\net8.0\Lista02Exer01.deps.json
+C:\Users\joaov\source\Exercicios\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Lista02Exer01\Lista02Exer01\bin\Debug\net8.0\Lista02Exer01.runtimeconfig.json
+C:\Users\joaov\source\Exercicios\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Lista02Exer01\Lista02Exer01\bin\Debug\net8.0\Lista02Exer01.dll
+C:\Users\joaov\source\Exercicios\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Lista02Exer01\Lista02Exer01\bin\Debug\net8.0\Lista02Exer01.pdb
+C:\Users\joaov\source\Exercicios\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Lista02Exer01\Lista02Exer01\obj\Debug\net8.0\Lista02Exer01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\source\Exercicios\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Lista02Exer01\Lista02Exer01\obj\Debug\net8.0\Lista02Exer01.AssemblyInfoInputs.cache
+C:\Users\joaov\source\Exercicios\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Lista02Exer01\Lista02Exer01\obj\Debug\net8.0\Lista02Exer01.AssemblyInfo.cs
+C:\Users\joaov\source\Exercicios\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Lista02Exer01\Lista02Exer01\obj\Debug\net8.0\Lista02Exer01.csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\Exercicios\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Lista02Exer01\Lista02Exer01\obj\Debug\net8.0\Lista02Exer01.sourcelink.json
+C:\Users\joaov\source\Exercicios\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Lista02Exer01\Lista02Exer01\obj\Debug\net8.0\Lista02Exer01.dll
+C:\Users\joaov\source\Exercicios\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Lista02Exer01\Lista02Exer01\obj\Debug\net8.0\refint\Lista02Exer01.dll
+C:\Users\joaov\source\Exercicios\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Lista02Exer01\Lista02Exer01\obj\Debug\net8.0\Lista02Exer01.pdb
+C:\Users\joaov\source\Exercicios\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Lista02Exer01\Lista02Exer01\obj\Debug\net8.0\Lista02Exer01.genruntimeconfig.cache
+C:\Users\joaov\source\Exercicios\repos\Estrutura_Sequencial(entrada,porcessamento,saída)\Lista02Exer01\Lista02Exer01\obj\Debug\net8.0\ref\Lista02Exer01.dll

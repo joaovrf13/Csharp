@@ -1,0 +1,14 @@
+C:\Users\joaov\source\repos\18.SaidadeDados\18.SaidadeDados\bin\Debug\net8.0\18.SaidadeDados.exe
+C:\Users\joaov\source\repos\18.SaidadeDados\18.SaidadeDados\bin\Debug\net8.0\18.SaidadeDados.deps.json
+C:\Users\joaov\source\repos\18.SaidadeDados\18.SaidadeDados\bin\Debug\net8.0\18.SaidadeDados.runtimeconfig.json
+C:\Users\joaov\source\repos\18.SaidadeDados\18.SaidadeDados\bin\Debug\net8.0\18.SaidadeDados.dll
+C:\Users\joaov\source\repos\18.SaidadeDados\18.SaidadeDados\bin\Debug\net8.0\18.SaidadeDados.pdb
+C:\Users\joaov\source\repos\18.SaidadeDados\18.SaidadeDados\obj\Debug\net8.0\18.SaidadeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\source\repos\18.SaidadeDados\18.SaidadeDados\obj\Debug\net8.0\18.SaidadeDados.AssemblyInfoInputs.cache
+C:\Users\joaov\source\repos\18.SaidadeDados\18.SaidadeDados\obj\Debug\net8.0\18.SaidadeDados.AssemblyInfo.cs
+C:\Users\joaov\source\repos\18.SaidadeDados\18.SaidadeDados\obj\Debug\net8.0\18.SaidadeDados.csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\repos\18.SaidadeDados\18.SaidadeDados\obj\Debug\net8.0\18.SaidadeDados.dll
+C:\Users\joaov\source\repos\18.SaidadeDados\18.SaidadeDados\obj\Debug\net8.0\refint\18.SaidadeDados.dll
+C:\Users\joaov\source\repos\18.SaidadeDados\18.SaidadeDados\obj\Debug\net8.0\18.SaidadeDados.pdb
+C:\Users\joaov\source\repos\18.SaidadeDados\18.SaidadeDados\obj\Debug\net8.0\18.SaidadeDados.genruntimeconfig.cache
+C:\Users\joaov\source\repos\18.SaidadeDados\18.SaidadeDados\obj\Debug\net8.0\ref\18.SaidadeDados.dll

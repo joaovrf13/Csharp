@@ -1,0 +1,14 @@
+C:\Users\joaov\source\repos\Exercicio01chatgpt\Exercicio01gpt\obj\Debug\net8.0\Exercicio01gpt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\source\repos\Exercicio01chatgpt\Exercicio01gpt\obj\Debug\net8.0\Exercicio01gpt.AssemblyInfoInputs.cache
+C:\Users\joaov\source\repos\Exercicio01chatgpt\Exercicio01gpt\obj\Debug\net8.0\Exercicio01gpt.AssemblyInfo.cs
+C:\Users\joaov\source\repos\Exercicio01chatgpt\Exercicio01gpt\obj\Debug\net8.0\Exercicio01gpt.csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\repos\Exercicio01chatgpt\Exercicio01gpt\bin\Debug\net8.0\Exercicio01gpt.exe
+C:\Users\joaov\source\repos\Exercicio01chatgpt\Exercicio01gpt\bin\Debug\net8.0\Exercicio01gpt.deps.json
+C:\Users\joaov\source\repos\Exercicio01chatgpt\Exercicio01gpt\bin\Debug\net8.0\Exercicio01gpt.runtimeconfig.json
+C:\Users\joaov\source\repos\Exercicio01chatgpt\Exercicio01gpt\bin\Debug\net8.0\Exercicio01gpt.dll
+C:\Users\joaov\source\repos\Exercicio01chatgpt\Exercicio01gpt\bin\Debug\net8.0\Exercicio01gpt.pdb
+C:\Users\joaov\source\repos\Exercicio01chatgpt\Exercicio01gpt\obj\Debug\net8.0\Exercicio01gpt.dll
+C:\Users\joaov\source\repos\Exercicio01chatgpt\Exercicio01gpt\obj\Debug\net8.0\refint\Exercicio01gpt.dll
+C:\Users\joaov\source\repos\Exercicio01chatgpt\Exercicio01gpt\obj\Debug\net8.0\Exercicio01gpt.pdb
+C:\Users\joaov\source\repos\Exercicio01chatgpt\Exercicio01gpt\obj\Debug\net8.0\Exercicio01gpt.genruntimeconfig.cache
+C:\Users\joaov\source\repos\Exercicio01chatgpt\Exercicio01gpt\obj\Debug\net8.0\ref\Exercicio01gpt.dll
