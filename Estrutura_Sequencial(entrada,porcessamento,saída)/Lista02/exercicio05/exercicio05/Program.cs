@@ -11,7 +11,7 @@ namespace exercicio05 {
             int codigo = int.Parse(valores[0]);
             int quantidade = int.Parse(valores[1]);
 
-            double total;
+            double total = 0.0;
 
             if (codigo == 1) {
 
